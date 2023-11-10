@@ -1,0 +1,2 @@
+joke = str(input("what happened to the chicken who crossed the road?"))
+print("i dont know")
